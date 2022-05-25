@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "aelmanaa",
+      "name": "Amine E.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4503543?v=4",
+      "profile": "https://github.com/aelmanaa",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "writing-javascript-actions",
+  "projectOwner": "aelmanaa",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
