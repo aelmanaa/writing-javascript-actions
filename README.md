@@ -1,4 +1,7 @@
 # Welcome to your course 🎉
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### Getting started
 
@@ -36,3 +39,23 @@ If you aren't already familiar, it may be a good idea to go through the [Introdu
 ---
 
 **Please navigate to the open issue in this repository to get started!**
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/aelmanaa"><img src="https://avatars.githubusercontent.com/u/4503543?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amine E.</b></sub></a><br /><a href="https://github.com/aelmanaa/writing-javascript-actions/commits?author=aelmanaa" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
